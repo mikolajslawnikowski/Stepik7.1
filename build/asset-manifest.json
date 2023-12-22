@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Stepik7.1/static/css/main.be2963ec.css",
+    "main.js": "/Stepik7.1/static/js/main.6c2254aa.js",
+    "index.html": "/Stepik7.1/index.html",
+    "main.be2963ec.css.map": "/Stepik7.1/static/css/main.be2963ec.css.map",
+    "main.6c2254aa.js.map": "/Stepik7.1/static/js/main.6c2254aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be2963ec.css",
+    "static/js/main.6c2254aa.js"
+  ]
+}
